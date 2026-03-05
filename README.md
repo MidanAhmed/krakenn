@@ -52,7 +52,7 @@ In typical software development lifecycles, test/staging environments often evol
 
 ### Phase 3 — Data Masking & Profiles
 
-- [ ] Built-in anonymization (`faker`, `hash`, `nullify`)
+- [ ] Built-in anonymization (`faker`, `hash`)
 - [ ] Config-driven sync profiles (JSON/YAML)
 - [ ] Test output validation (row count, hash match, etc.)
 
